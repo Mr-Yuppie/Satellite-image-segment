@@ -1,1 +1,1 @@
-### 中间换过三次网络首先使用### 网址[卫星影像的AI分类与识别 ](http://www.datafountain.cn/?from=groupmessage#/competitions/270/intro)### 参考* [【Keras】基于SegNet和U-Net的遥感图像语义分割](https://www.cnblogs.com/skyfsm/p/8330882.html)
+### 中间换过三次网络首先使用### 网址[卫星影像的AI分类与识别 ](https://www.datafountain.cn/competitions/270/details)### 比赛的结束后搜索到的资料* [【Keras】基于SegNet和U-Net的遥感图像语义分割](https://www.cnblogs.com/skyfsm/p/8330882.html)* [卫星影像的AI分类与识别参赛笔记](https://blog.csdn.net/qq_34759239/article/details/79209148)* [冠军代码](https://github.com/Jiangfeng-Xiong/satellite_seg)
